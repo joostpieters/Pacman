@@ -1,0 +1,18 @@
+To start the game
+open the file "playclasstesting.scm"
+Ctrl + R 
+and run the file  
+
+After that 2 windows are displayed one of name about and other of Pacman.
+Close the window of name "about"
+
+Click Start Game on the pacman window.
+
+Once the new window opens press any key (up down left or right) twice.
+The game starts!!
+After one of the life is lost press any key twice (up down left right).
+
+the game follows auto record of key so you can press a key just only once and change the direction of the pacman.
+
+
+
